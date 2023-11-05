@@ -23,3 +23,18 @@
 
 - TECHFEED
   - https://techfeed.io/categories/all
+
+- webデザイン
+  - https://layers.to/explore/recent
+  - https://recent.design/
+  - https://www.darkmodedesign.com/
+  - https://godly.website/
+  - https://dribbble.com/shots/22720738-ShareOS
+  - https://www.palettable.io/
+  - https://collectui.com/designs
+
+- アプリ
+  -　https://lovelyui.com/
+  - https://ui-pocket.com/apps/
+  - https://uxarchive.com/
+  - https://screenlane.com/
